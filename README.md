@@ -1,4 +1,18 @@
 # Autonomous Track-Following Car Project
+
+### Project Discription
+
+https://github.com/Serkhani/AutoG6/assets/66341820/0900cecd-5908-40bd-b0aa-8832f8181391
+
+
+
+### How the  values from raspberry pi is represented
+![raspVal](https://github.com/Serkhani/AutoG6/assets/66341820/eec4260f-d3ce-45f2-9a72-c4b888b069c6)
+
+### Values from the pi
+![r](https://github.com/Serkhani/AutoG6/assets/66341820/e453c4cb-5b65-4d66-a7c7-9bf7d109c3cb)
+
+
 ## Acknowledgements
 
 We extend our sincere gratitude to Dr. Margaret Richardson for her invaluable guidance and provision of the circuit board essential for the execution of the autonomous track-following car project. Special thanks to TA Moses for crucial assistance and feedback that proved instrumental in overcoming technical challenges.
