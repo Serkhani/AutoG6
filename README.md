@@ -3,7 +3,7 @@
 
 We extend our sincere gratitude to Dr. Margaret Richardson for her invaluable guidance and provision of the circuit board essential for the execution of the autonomous track-following car project. Special thanks to TA Moses for crucial assistance and feedback that proved instrumental in overcoming technical challenges.
 
-##Executive Summary
+## Executive Summary
 
 This project focuses on the development of an autonomous car capable of navigating a predefined track using white lines. Employing a combination of hardware and software technologies, including the STM32 Nucleo board, Raspberry Pi, and a camera, the project aimed to showcase the integration of embedded systems and computer vision in creating a practical autonomous vehicle model. Notable achievements include successful track navigation under varying lighting conditions and the development of an efficient path detection and adjustment algorithm.
 
